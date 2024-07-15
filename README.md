@@ -10,3 +10,5 @@
 </ul>
 
 <p>Obs: os dados por enquanto estão armazenados na pasta "dados", futuramente será usado MySQL pra organização deles</p>
+
+<p>Para visualizar a página, <a href="mateusaraujo.shop">clique aqui!</a></p>
